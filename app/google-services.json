@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367713827061",
+    "project_id": "shop-b250b",
+    "storage_bucket": "shop-b250b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367713827061:android:6e96d3ec1c7e79db8badbc",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBum7H9ukZ6Uvdwev8kS1jlbFyCRU30b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
